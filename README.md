@@ -1,2 +1,3 @@
-# Improving-Deep-Neural-Networks
-this is my note and code when I learn online course topic Improving Deep Neural Networks by Deep learning.ai 
+# Improving Deep Neural Networks
+This couse is one of the five couses from Deep-leaning.ai
+- week 1 : Practical aspects of Deep Learning
