@@ -1,4 +1,4 @@
-# Improving Deep Neural Networks (Couse # 2)
+# Improving Deep Neural Networks (Course # 2)
 This couse is one of the five couses from Deep-leaning.ai
 - week 1 : Practical aspects of Deep Learning
 - week 2 : Optimization algorithms
